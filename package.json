@@ -1,0 +1,16 @@
+{
+  "name": "rest-server",
+  "version": "1.0.0",
+  "description": "Primer Rest server del curso de backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "franco ricci",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.11.2"
+  }
+}
